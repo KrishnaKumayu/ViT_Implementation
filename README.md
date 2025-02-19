@@ -32,16 +32,19 @@ TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE**
 
 ## 📅 **Week 3: Advanced Studies in Multi-Task Learning**
 
-### 📌 **Paper 1:** Multi-Task Transformers
+### 📌 **Paper 1:** AutoTaskFormer: Searching Vision Transformers for Multi-task Learning
 - 📄 [Paper Link](https://arxiv.org/pdf/2304.08756)
 
-### 📌 **Paper 2:** Efficient Multi-Task Learning
+### 📌 **Paper 2:** MulT: An End-to-End Multitask Learning Transformer
 - 📄 [Paper Link](https://arxiv.org/pdf/2205.08303)
 
-### 📌 **Paper 3:** Task-Specific Adaptations in Transformers
+### 📌 **Paper 3:** M3ViT: Mixture-of-Experts Vision Transformer
+for Efficient Multi-task Learning
+with Model-Accelerator Co-design
 - 📄 [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2022/file/b653f34d576d1790481e3797cb740214-Paper-Conference.pdf)
 
-### 📌 **Paper 4:** Multi-Modal Learning in Transformers
+### 📌 **Paper 4:** Polyhistor: Parameter-Efficient Multi-Task
+Adaptation for Dense Vision Tasks
 - 📄 [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2022/file/efb02f96766a3b599c76852abf4d42dd-Paper-Conference.pdf)
 
 ### 📌 **Decision to Implement Paper 1 Approach**
@@ -54,5 +57,4 @@ TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE**
 - Explore parameter-sharing techniques in ViT
 - Apply ViT-based multi-task learning to real-world datasets
 
-Stay tuned for updates! 🚀
 
