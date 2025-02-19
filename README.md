@@ -11,7 +11,8 @@ This repository tracks my exploration and implementation of Vision Transformer (
 - Studied the paper **"Attention Is All You Need"**
 - 📄 [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
-### 📌 **Day 2: Vision Transformers (ViT) Fundamentals**
+### 📌 **Day 2: AN IMAGE IS WORTH 16X16 WORDS:
+TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE**
 - Read **"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**
 - 📄 [Paper Link](https://arxiv.org/pdf/2010.11929)
 
